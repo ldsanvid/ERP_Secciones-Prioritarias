@@ -23,10 +23,13 @@
           <div class="row">
             <div class="col">
               <h1 class="display-4 font-weight-normal" style="text-align:justify"><strong>Estimación de votos</strong></h1>
-              <div id="Estimación de votos"></div>
+              <div id="Radar Puebla"></div>
               <script src="grafpuebla.js"></script>
+              <div class="caption text-white">
+                <h6><i>Nota: <strong>A partir de septiembre de 2021, ambas estimaciones están basadas en el número de voto total y duro que ERP tiene en el estado, no solo en la capital.</i></strong></h6>
+              </div>
             </div>
           </div>
     </div>
 </body>
-</html>          
+</html>    
