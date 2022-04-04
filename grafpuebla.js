@@ -57,7 +57,7 @@ var votototalERPcapital = {
   var radarespuebla = [votototalERPcapital, votototalERPestado, votototalERPcapital, votoduroERPestado];
   
   var grafradares = {
-    title:'Estimación de votos', yaxis:{title:"miles de votos"}
+    title:'Estimación de votos', yaxis:{title:"Miles de votos"}
   };
   
   Plotly.newPlot('Radar Puebla', radarespuebla, grafradares)
